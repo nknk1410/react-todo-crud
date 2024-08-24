@@ -6,7 +6,7 @@ https://user-images.githubusercontent.com/81854585/184640198-8b9e7ad4-f89d-41ae-
 
 
 
-## Tech Stack
+## Tech Stack // Nitin
 **Client:** React js , Bootstrap
 
 **Server:** json server
